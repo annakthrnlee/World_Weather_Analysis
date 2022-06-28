@@ -8,7 +8,7 @@ This analysis looks at different weather data patterns around cities worldwide a
 - Maximum Temperature.
 - Humidity.
 - Cloudiness.
-- Winde speed. 
+- Wind speed. 
 
 ## Visualize the Weather Data:
 I created a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. This tool can be useful for clients' to visualize their weather preferences when booking hotels, trips, and forming itineraries. 
