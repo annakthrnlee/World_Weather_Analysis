@@ -16,7 +16,7 @@ I created a heatmap with pop-up markers that can display information on specific
 ## Map Your Vacation!
 Once the customers have filtered the database (DataFrame) based on their temperature preferences, they can select certain cities and view a heatmap! The heatmap can help individuals view the maximum temperatures prevalent in their selected cities. In addition, clients' can also place a marker on each city selected which will provide them with a country code, maximum temperature, and name of a nearby hotel within three miles of the coordinates when the marker is clicked. 
 
-## Here's a sample of a potential search opption: 
+## Here's a sample of a potential search option: 
 <img width="1206" alt="Screen Shot 2022-08-31 at 5 17 15 PM" src="https://user-images.githubusercontent.com/104043438/187801277-7b79f4d1-999d-419b-a175-bd76b2343bc1.png">
 
 ### After implementing a clients' preferences: 
