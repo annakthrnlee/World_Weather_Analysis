@@ -20,4 +20,4 @@ Once the customers have filtered the database (DataFrame) based on their tempera
 <img width="1206" alt="Screen Shot 2022-08-31 at 5 17 15 PM" src="https://user-images.githubusercontent.com/104043438/187801277-7b79f4d1-999d-419b-a175-bd76b2343bc1.png">
 
 ### After implementing a clients' preferences: 
-- A pop-up marker appears and displays information based on the specific location. 
+- A pop-up marker appears and displays information based on the specific location. Summarizing the areas max temperature, location, 
